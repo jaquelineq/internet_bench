@@ -1,0 +1,80 @@
+company;segment;access;type;offer_name;download (Mbps);upload (Mbps);volume (GB);volume_obh;mobile;extra_esim;tv;tel_fixe;mailboxes;NDD;hotspot;wifi_boost;backup;option_secu;fms;price;modem;promo_mois;option_mobile;option_tv;option_ip;option_tel_fixe;option_backup
+orange;soho;FWA;Internet;Home Flybox Pro 150 GB;210;nan;50;100;no;no;no;no;no;no;no;no;no;no;nan;20,66;32,23;12;no;no;no;no;no
+orange;soho;FWA;Internet;Home Flybox Pro 15 GB;210;nan;15;15;no;no;no;no;no;no;no;no;no;no;nan;16,53;32,23;12;no;no;no;no;no
+orange;soho;nan;Internet+mobile;Orange Entrepreneurs;150;15;ilimite;ilimite;yes;no;no;no;no;no;no;yes;yes;no;nan;48,76;0;0;yes;yes;no;yes;no
+orange;consumer;FWA;Internet;Home Flybox 150GB;210;nan;50;100;no;no;no;no;no;no;no;no;no;no;nan;25;39;12;no;no;no;no;no
+orange;consumer;FWA;Internet;Home Flybox 15GB;210;nan;15;15;no;no;no;no;no;no;no;no;no;no;nan;20;39;12;no;no;no;no;no
+orange;consumer;cable;Internet;Home Internet;150;15;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;59;46;0;0;no;yes;no;yes;no
+orange;consumer;cable;Internet+tv;Home Internet & TV;150;15;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;59;65;0;0;no;no;no;no;no
+orange;soho;fiber;Internet;Home Fiber Pro;1000;200;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;48,76;41,31;0;0;no;no;no;no;no
+orange;soho;fiber;Internet+mobile;Love Pro + mobile;1000;200;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;48,76;36,36;0;0;yes;no;no;no;no
+orange;soho;fiber;Internet+mobile+tv;Love Pro + mobile +tv;1000;200;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;48,76;36,36;0;0;yes;yes;no;no;no
+orange;consumer;fiber;Internet;Home Fiber;150;15;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;59;40;0;0;no;no;no;no;no
+orange;consumer;fiber;Internet+mobile;Love Fiber + mobile;150;15;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;59;44;0;0;no;no;no;no;no
+orange;consumer;fiber;Internet+mobile+tv;Love Fiber + mobile + TV light;150;15;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;59;54;0;0;no;no;no;no;no
+orange;consumer;nan;Internet+mobile;Love + mobile;150;15;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;59;40;0;0;no;no;no;no;no
+orange;consumer;nan;Internet+mobile;Love Boost + mobile;400;40;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;59;55;0;0;no;no;no;yes;no
+orange;consumer;nan;Internet+mobile+tv;Love + mobile + tv;150;15;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;59;69;0;0;yes;no;no;no;no
+orange;consumer;nan;Internet+mobile+tv;Love Boost + mobile + tv;400;40;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;59;84;0;0;yes;yes;no;no;no
+telenet;soho;fiber;Internet;Business Fibernet;300;30;ilimite;ilimite;no;no;no;no;yes;yes;yes;no;no;yes;0;55,55;0;0;no;no;yes;no;no
+telenet;soho;fiber;Internet;Business Fibernet avec Speedboost;1000;50;ilimite;ilimite;no;no;no;no;yes;yes;yes;no;no;yes;0;70,55;0;0;no;no;yes;no;no
+telenet;soho;fiber;Internet;Business Fibernet S;150;15;200;200;no;no;no;no;yes;yes;yes;no;no;yes;0;34,18;0;0;no;no;yes;no;no
+telenet;soho;fiber;Internet+mobile;CLIC;300;30;ilimite;ilimite;yes;no;no;no;yes;no;no;no;no;yes;0;69,6;0;0;yes;yes;no;yes;no
+telenet;consumer;nan;Internet;Easy Internet;100;10;150;150;no;no;no;no;no;no;no;no;no;no;50;31,41;0;6;no;yes;no;no;no
+telenet;consumer;nan;Internet;All-Internet;300;20;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;50;57,68;0;6;no;yes;no;yes;no
+telenet;consumer;nan;Internet;All-Internet Speedboost;1000;40;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;50;72,68;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+tv;Easy Internet + Telenet TV iconic;100;10;150;150;no;no;yes;no;no;no;no;no;no;no;50;31,41;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+tv;All-Internet + Telenet TV iconic;300;20;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;50;40,56;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+tv;Giga Internet + Telenet TV iconic;1000;nan;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;50;72,68;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+mobile;Easy Internet + Mobile 5G;100;10;150;150;yes;no;no;no;no;no;no;no;no;no;50;44,21;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+mobile;Easy Internet + Mobile 8G;100;10;150;150;yes;no;no;no;no;no;no;no;no;no;50;48,16;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+mobile+tv;Easy Internet + Mobile 5GB + Telenet TV iconic;100;10;150;150;yes;no;yes;no;no;no;no;no;no;no;50;73,65;0;6;no;no;no;no;no
+telenet;consumer;nan;Internet+mobile+tv;Easy Internet + Mobile 8GB + Telenet TV iconic;100;10;150;150;yes;no;yes;no;no;no;no;no;no;no;50;77,6;0;6;no;no;no;yes;no
+telenet;consumer;nan;Internet+mobile;One Internet + mobile;150;nan;ilimite;ilimite;yes;yes;no;no;no;no;no;no;no;no;0;69,1;0;0;no;no;no;no;no
+telenet;consumer;nan;Internet+mobile;Oneup Internet + mobile;1000;nan;ilimite;ilimite;yes;yes;no;no;no;no;no;no;no;no;0;90;0;0;no;no;no;no;no
+telenet;consumer;nan;Internet+mobile+phone+tv;One Internet + mobile + tv;150;nan;ilimite;ilimite;yes;yes;yes;yes;no;no;no;no;no;no;0;90;0;6;no;no;no;no;no
+telenet;consumer;nan;Internet+mobile+phone+tv;ONE avec la tv et 2 numeros Internet + 2 mobile + tv;1000;nan;ilimite;ilimite;yes;yes;yes;yes;no;no;no;no;no;no;0;110,9;0;6;no;no;no;no;no
+proximus;soho;nan;Internet;Business Flex Essential;100;30;ilimite;ilimite;no;no;no;no;no;no;no;yes;no;no;0;55;0;3;no;no;no;no;yes
+proximus;soho;nan;Internet+mobile;Business Flex Essential + Mobile;100;30;ilimite;ilimite;yes;no;no;no;no;no;no;yes;no;no;0;68;0;3;yes;no;no;no;yes
+proximus;soho;nan;Internet+mobile+phone;Business Flex + Mobile + Ligne Fixe;100;30;ilimite;ilimite;yes;no;no;yes;no;no;no;yes;no;no;0;78;0;3;yes;no;no;no;yes
+proximus;soho;nan;Internet+mobile+phone+tv;Business Flex + Mobile + Ligne Fixe + tv;100;30;ilimite;ilimite;yes;no;yes;yes;no;no;no;yes;no;no;0;91;0;3;yes;no;no;no;yes
+proximus;soho;fiber;Internet;Business Flex Essential Fiber;350;100;ilimite;ilimite;no;no;no;no;no;no;no;yes;no;no;0;60;0;3;no;no;no;no;no
+proximus;soho;fiber;Internet+mobile;Business Flex Essential Fiber + Mobile;350;100;ilimite;ilimite;yes;no;no;no;no;no;no;yes;no;no;0;73;0;3;yes;no;no;no;no
+proximus;soho;fiber;Internet+mobile+phone;Business Flex Fiber + Mobile + Ligne Fixe;1000;200;ilimite;ilimite;yes;no;no;yes;no;no;no;yes;no;no;0;83;0;3;yes;no;no;no;no
+proximus;soho;fiber;Internet+mobile+phone+tv;Business Flex Fiber + Mobile + Ligne Fixe + tv;1000;200;ilimite;ilimite;yes;no;yes;yes;no;no;no;yes;no;no;0;96;0;3;yes;no;no;no;no
+proximus;soho;nan;Internet;Internet Maxi;100;30;ilimite;ilimite;no;no;no;no;no;no;yes;no;no;yes;48,76;51,07;0;12;no;no;no;no;yes
+proximus;consumer;nan;Internet;Internet Essential;50;4;100;100;no;no;no;no;no;no;no;no;no;no;59;25;0;0;no;no;no;no;no
+proximus;consumer;nan;Internet;Internet Maxi;100;30;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;59;54,99;0;12;no;no;no;no;no
+proximus;consumer;nan;Internet+mobile;Internet Maxi + Mobile;100;30;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;59;66,99;0;3;no;no;no;no;no
+proximus;consumer;fiber;Internet;Internet Start Fiber;120;20;150;150;no;no;no;no;no;no;no;no;no;no;0;42,95;0;0;no;no;no;no;no
+proximus;consumer;fiber;Internet;Internet Maxi Fiber;350;50;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;0;59,99;0;12;no;no;no;no;no
+proximus;consumer;fiber;Internet+mobile;Internet Maxi Fiber + mobile;350;50;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;0;71,99;0;3;no;no;no;no;no
+proximus;consumer;fiber;Internet+mobile;Flex fiber + mobile;350;50;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;0;71,99;0;3;yes;no;no;no;no
+proximus;consumer;fiber;Internet+mobile+phone;Flex fiber superior + mobile;1000;100;ilimite;ilimite;yes;no;no;yes;no;no;no;yes;no;no;0;83,99;0;3;yes;no;no;no;no
+proximus;consumer;fiber;Internet+tv;Flex fiber + tv;350;50;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;0;71,99;0;3;no;no;no;no;no
+proximus;consumer;fiber;Internet+phone+tv;Flex fiber superior + tv;1000;100;ilimite;ilimite;no;no;yes;yes;no;no;no;yes;no;no;0;83,99;0;3;no;no;no;no;no
+proximus;consumer;fiber;Internet+mobile+tv;Flex fiber + mobile + tv;350;50;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;0;86,99;0;0;yes;no;no;no;no
+proximus;consumer;fiber;Internet+mobile+phone+tv;Flex fiber superior + mobile + tv;1000;100;ilimite;ilimite;yes;no;yes;yes;no;no;no;yes;no;no;0;98,99;0;0;yes;no;no;no;no
+proximus;consumer;nan;Internet+mobile;Flex + mobile;100;30;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;0;66,99;0;3;yes;no;no;no;no
+proximus;consumer;nan;Internet+tv;Flex + tv;100;30;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;0;66,99;0;3;no;no;no;no;no
+proximus;consumer;nan;Internet+phone+tv;Flex superior + tv;100;30;ilimite;ilimite;no;no;yes;yes;no;no;no;yes;no;no;0;78,99;0;3;no;no;no;no;no
+proximus;consumer;nan;Internet+mobile+tv;Flex + mobile + tv;100;30;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;0;81,99;0;3;no;no;no;no;no
+proximus;consumer;nan;Internet+mobile+phone+tv;Flex superior + mobile + tv;100;30;ilimite;ilimite;yes;no;yes;yes;no;no;no;yes;no;no;0;93,99;0;3;no;no;no;no;yes
+voo;consumer;nan;Internet;solo;200;10;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;60;55;0;0;no;no;no;no;no
+voo;consumer;nan;Internet;solo Giga Rapide;1000;50;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;60;67;0;0;no;no;no;no;no
+voo;consumer;nan;Internet+tv;duo internet + tv;200;10;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;0;45;0;3;no;yes;no;no;no
+voo;consumer;nan;Internet+tv;duo internet + tv Giga Rapide;1000;50;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;0;77;0;3;no;no;no;no;no
+voo;consumer;nan;Internet+mobile;duo internet + mobile;200;10;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;0;61;0;0;no;no;no;no;no
+voo;consumer;nan;Internet+mobile;duo internet + mobile Giga Rapide;1000;50;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;0;73;0;0;no;no;no;no;no
+voo;consumer;nan;Internet+mobile+tv;trio internet + mobile + tv;200;10;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;0;76;0;5;no;no;no;no;no
+voo;consumer;nan;Internet+mobile+tv;trio internet + mobile + tv Giga Rapide;1000;50;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;0;88;0;5;no;no;no;no;no
+voo;consumer;nan;Internet+phone+tv;trio internet + phone + tv;200;10;ilimite;ilimite;no;no;yes;yes;no;no;no;no;no;no;0;76;0;0;no;no;no;no;no
+voo;consumer;nan;Internet+phone+tv;trio internet + phone + tv Giga Rapide;1000;50;ilimite;ilimite;no;no;yes;yes;no;no;no;no;no;no;0;88;0;0;no;no;no;no;no
+voo;consumer;nan;Internet+mobile+phone+tv;quatro internet + mobile + tv + phone;200;10;ilimite;ilimite;yes;no;yes;yes;no;no;no;no;no;no;0;87;0;6;no;no;no;no;no
+voo;consumer;nan;Internet+mobile+phone+tv;quatro internet + mobile + tv + phone Giga Rapide;1000;50;ilimite;ilimite;yes;no;yes;yes;no;no;no;no;no;no;0;99;0;6;no;no;no;no;no
+voo;soho;nan;Internet;solo pro;1000;50;ilimite;ilimite;no;no;no;no;no;no;no;no;no;no;0;50;0;6;no;no;no;no;no
+voo;soho;nan;Internet+tv;duo pro Internet + tv;1000;50;ilimite;ilimite;no;no;yes;no;no;no;no;no;no;no;0;60;0;6;no;no;no;no;no
+voo;soho;nan;Internet+mobile;duo pro Internet + mobile;1000;50;ilimite;ilimite;yes;no;no;no;no;no;no;no;no;no;0;60;0;6;no;no;no;no;no
+voo;soho;nan;Internet+mobile+tv;trio pro Internet + mobile + tv;1000;50;ilimite;ilimite;yes;no;yes;no;no;no;no;no;no;no;0;70;0;6;no;no;no;no;no
+voo;soho;nan;Internet+phone+tv;trio pro Internet + phone + tv;1000;50;ilimite;ilimite;no;no;yes;yes;no;no;no;no;no;no;0;70;0;6;no;no;no;no;no
+voo;soho;nan;Internet+mobile+phone+tv;quatro internet + mobile + tv + phone;1000;50;ilimite;ilimite;yes;no;yes;yes;no;no;no;no;no;no;0;80;0;6;no;no;no;no;no
